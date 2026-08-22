@@ -1,0 +1,12 @@
+<Files "config.php">
+  Order allow,deny
+  Deny from all
+</Files>
+<Files "leads.log">
+  Order allow,deny
+  Deny from all
+</Files>
+<Files "lead-number.txt">
+  Order allow,deny
+  Deny from all
+</Files>
